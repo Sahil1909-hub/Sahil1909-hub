@@ -1,5 +1,12 @@
-# 💫 About Me:
-Im currently looking for a job which fits my profile.<br>Im an Gen AI Engineer.<br>
+## 👋 About Me
+
+Gen AI Engineer specializing in **LLM applications**, **Agentic AI systems**, and **RAG pipelines**.
+I build production-ready AI applications using LangGraph, LangChain, and Groq — with clean architecture, Docker support, and real-world usability in mind.
+
+- 🔭 Currently building: Multi-agent AI systems with LangGraph workflow orchestration
+- 🧠 Core stack: Python · LangChain · LangGraph · Groq · RAG · ChromaDB · Streamlit · Docker
+- 🌍 Based in Mumbai, India · Open to AI/ Gen AI / LLM Engineer roles
+- 📬 Reach me: sahilsoni1909@gmail.com
 
 
 ## 🌐 Socials:
