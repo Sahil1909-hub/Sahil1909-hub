@@ -1,25 +1,71 @@
-## 👋 About Me
+# Hi, I'm Sahil Soni 👋
 
-Gen AI Engineer specializing in **LLM applications**, **Agentic AI systems**, and **RAG pipelines**.
-I build production-ready AI applications using LangGraph, LangChain, and Groq — with clean architecture, Docker support, and real-world usability in mind.
+**AI Engineer · Gen AI Engineer** · Mumbai, India
 
-- 🔭 Currently building: Multi-agent AI systems with LangGraph workflow orchestration
-- 🧠 Core stack: Python · LangChain · LangGraph · Groq · RAG · ChromaDB · Streamlit · Docker
-- 🌍 Based in Mumbai, India · Open to AI/ Gen AI / LLM Engineer roles
-- 📬 Reach me: sahilsoni1909@gmail.com
+I build production-ready AI applications — multi-agent systems, RAG pipelines, and LLM-powered tools with clean architecture and real-world usability.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilsoni1909@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-soni-958523207) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sahil Soni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilsoni1909@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahil1909-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sahil1909-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil1909-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-soni-958523207)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://sahil-netlify-app.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilsoni1909@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sahil1909-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Working On
+
+- Building **multi-agent AI systems** with LangGraph workflow orchestration
+- Designing **RAG pipelines** with semantic search and vector stores
+- Deploying AI apps with **Docker** and production-grade architecture
+
+---
+
+## 🧠 Core Stack
+
+**AI / LLM**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23FF6B35.svg?style=flat-square&logo=graph&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23000000.svg?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20Fundamentals-%23000000.svg?style=flat-square&logo=anthropic&logoColor=white)
+
+**ML / Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+
+**Infra & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🤖 Agentic AI Research Agent](https://github.com/Sahil1909-hub/Agentic-AI-Research-Agent) | Multi-agent research assistant with web search, RAG, and LangGraph orchestration | LangGraph · Groq · Tavily · Docker |
+| [💻 Agentic AI Coding Assistant](https://github.com/Sahil1909-hub/Agentic-AI-Coding-Assistant) | 10-agent autonomous coding system — plans, codes, reviews, tests, and documents | LangGraph · Groq · GitHub API · Docker |
+| [📄 Document QnA Bot](https://github.com/Sahil1909-hub/Document-QnA-Bot) | RAG-powered PDF chatbot with semantic search and contextual answers | LangChain · HuggingFace · Groq · ChromaDB |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil1909-hub&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil1909-hub&theme=dark&hide_border=true&layout=compact&count_private=false" height="160"/>
+</p>
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Sahil1909-hub&theme=dark&hide_border=true)
+
+---
+
+*Open to AI Engineer / Gen AI / LLM Engineer roles — feel free to reach out at sahilsoni1909@gmail.com*
